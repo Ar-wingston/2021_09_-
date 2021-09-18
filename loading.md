@@ -1,5 +1,3 @@
-## JavaScript
-
 ## ES6
 
 ## Vue
