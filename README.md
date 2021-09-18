@@ -1,5 +1,5 @@
 下载项目
-https://github.com/Ar-wingston/2021_09_interview.git
+git clone https://github.com/Ar-wingston/2021_09_interview.git
 
 获取最新代码
 git pull
