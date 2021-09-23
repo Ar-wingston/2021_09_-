@@ -5,4 +5,7 @@ git clone https://github.com/Ar-wingston/2021_09_interview.git
 git pull
 
 提交修改
+git status
+git add .
+git commit -m 'commit'
 git push
